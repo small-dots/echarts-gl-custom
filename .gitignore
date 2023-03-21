@@ -173,7 +173,6 @@ doc/static
 doc/example/data/raw
 todo
 tmp
-/lib
 package-lock.json
 test/data/gps
 test/data/gps2
